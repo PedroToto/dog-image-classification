@@ -1,5 +1,4 @@
 # Report: DogImages Classification using AWS SageMaker
-### Philippe Jean Mith
 
 ## Hyperparameter Tuning
 ### What kind of model did you choose for this experiment and why? Give an overview of the types of parameters and their ranges used for the hyperparameter search.
